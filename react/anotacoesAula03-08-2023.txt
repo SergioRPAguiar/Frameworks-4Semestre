@@ -1,0 +1,15 @@
+npx create-react-app .
+npm start
+componentes baseados em função ou em class sempre começam com letra maiscula
+className é sempre usado em react nunca class
+pra importar sempre deve exportar da outra ponta ex: export default App;
+js n permite fazer o return de mais uma tag, pra fazer isso usa uma div pai e coloca outras divs filhos dentro dela ou dentro de uma react fragments <>
+para usar comandos js é so abrir {} dentro do codigo e colocar o que quer exemplo {1+1}
+
+react tem dois tipos de componentes componentes que tem estado sao chamados de statefull e sem estado sao chamados de stateless
+para n ter que ficar trabalhando com state se usa um constructor(props){}
+comando super chama o construtor da classe pai
+sempre quando temos uma array, uma da forma de interar com array se usa map array.prototype.map()
+
+
+tarefa: colocar um h3 com o body
